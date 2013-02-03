@@ -1,0 +1,27 @@
+
+#admin_customize{}
+
+#admin_customize a{}
+
+#admin_customize ul{}
+
+#admin_customize ul ul{
+
+    margin-left: 2%;
+}
+
+#admin_customize .ac_toggle{ visibility: hidden; }
+#admin_customize .ac_toggle a{ 
+    
+    visibility: visible;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 120%;
+    
+    color: #21759B;
+}
+
+#admin_customize .ac_section_opts span{
+    
+    padding-right: 6px;    
+}
